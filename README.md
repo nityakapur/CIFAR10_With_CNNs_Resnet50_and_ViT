@@ -1,4 +1,4 @@
-# CIFAR-10 Classification through CNNs, ResNet50 and ViT 
+# CIFAR-10 Classification: A Comparative Study of CNNs, ResNet50, and ViT
 
 ## AIM
 This project aims to compare Convolutional Neural Networks (CNNs), Residual Networks (ResNet50), and Visual Transformers (ViT) for object classification using the CIFAR-10 dataset. The goal is to evaluate the accuracy achieved by each model and visualize their performance through loss and accuracy metrics.
